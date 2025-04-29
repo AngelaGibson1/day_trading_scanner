@@ -1,7 +1,6 @@
-# day_trading_scanner
+# Hybrid Stock Scanner
 My favorite day trading scanner
 
-# Hybrid Stock Scanner
 
 A high-performance stock scanning tool designed for day traders looking to identify both volatility and trend-based trading opportunities across different market capitalization tiers.
 
